@@ -1,0 +1,399 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kontur Admin Style\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-03 18:16+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: kontur-admin-style\n"
+
+#: admin/kontur-admin-style-admin-page.php:328
+#: admin/xoptions/kontur-admin-style_registerSettings.php:371
+msgid " https://your-link.com"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:337
+#: admin/kontur-admin-style-admin-page.php:372
+#: admin/xoptions/kontur-admin-style_registerSettings.php:387
+#: admin/xoptions/kontur-admin-style_registerSettings.php:416
+msgid "(will change after saving)"
+msgstr ""
+
+#: admin/xoptions/kontur-admin-style_registerSettings.php:148
+#: admin/xoptions/kontur-admin-style_registerSettings.php:157
+msgid "+ You are using the default WordPress LogIn Page "
+msgstr ""
+
+#: admin/xoptions/kontur-admin-style_registerSettings.php:152
+#: admin/xoptions/kontur-admin-style_registerSettings.php:161
+msgid "+ You are using your own Login Page style "
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:138
+msgid ">> Change your admin style settings"
+msgstr ""
+
+#: kontur-admin-style.php:76
+msgid ">> Settings"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A light, eye pleasing admin theme and custom login page. Easy to customize "
+"to your colors, admin bar logo, login-link, login page backround... change "
+"the admin menu colors if you like. Or just enjoy the themes pre-set and just "
+"change it to your brand logo."
+msgstr ""
+
+#: admin/xoptions/kontur-admin-style_registerSettings.php:207
+msgid "Change Your Settings"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:123
+msgid "Change Your Settings:"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:211
+#: admin/xoptions/kontur-admin-style_registerSettings.php:241
+msgid "Check to use your admin bar icon"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:130
+msgid "Check to use your custom admin style"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:153
+#: admin/xoptions/kontur-admin-style_registerSettings.php:348
+msgid "Check to use your own login page style"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:371
+#: admin/xoptions/kontur-admin-style_registerSettings.php:415
+msgid "Current Background:"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:231
+#: admin/kontur-admin-style-admin-page.php:244
+#: admin/kontur-admin-style-admin-page.php:262
+#: admin/kontur-admin-style-admin-page.php:283
+#: admin/xoptions/kontur-admin-style_registerSettings.php:263
+#: admin/xoptions/kontur-admin-style_registerSettings.php:276
+#: admin/xoptions/kontur-admin-style_registerSettings.php:295
+#: admin/xoptions/kontur-admin-style_registerSettings.php:317
+msgid "Current color: "
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:336
+#: admin/xoptions/kontur-admin-style_registerSettings.php:386
+msgid "Current Logo:"
+msgstr ""
+
+#. Author of the plugin
+msgid "Eilert Behrends"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:175
+msgid ""
+"General note: Please keep in mind, that there might be people working on "
+"your site, that cannot work with low contrast. Our default settings are not "
+"really optimised for this usage. Our approach was a a quck fix for a more "
+"personal admin area and login page"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/netzaufsicht/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/kontur-admin-style/"
+msgstr ""
+
+#. Name of the plugin
+#: admin/kontur-admin-style-admin-page.php:112
+#: admin/xoptions/kontur-admin-style_registerSettings.php:198
+msgid "kontur Admin Style"
+msgstr ""
+
+#: kontur-admin-style.php:59
+msgid ""
+"kontur Admin Style requires a more recent version of WordPress and has been "
+"paused."
+msgstr ""
+
+#: admin/xoptions/kontur-admin-style_registerSettings.php:339
+msgid "LOGIN "
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:311
+msgid "LOGIN Page Settings"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:161
+msgid "Login page Settings"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:154
+msgid "Login page settings will show AFTER you checked and saved"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:325
+#: admin/xoptions/kontur-admin-style_registerSettings.php:368
+msgid "Login-Logo Link:"
+msgstr ""
+
+#: admin/xoptions/kontur-admin-style_registerSettings.php:349
+msgid "LoginPage setting will appear AFTE you checked and saved"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:358
+#: admin/xoptions/kontur-admin-style_registerSettings.php:402
+msgid "Make sure to use a large picture!"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:231
+#: admin/kontur-admin-style-admin-page.php:246
+#: admin/kontur-admin-style-admin-page.php:263
+#: admin/kontur-admin-style-admin-page.php:284
+#: admin/xoptions/kontur-admin-style_registerSettings.php:263
+#: admin/xoptions/kontur-admin-style_registerSettings.php:278
+#: admin/xoptions/kontur-admin-style_registerSettings.php:296
+#: admin/xoptions/kontur-admin-style_registerSettings.php:318
+msgid "Our theme color: "
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:196
+#: admin/kontur-admin-style-admin-page.php:363
+#: admin/xoptions/kontur-admin-style_registerSettings.php:224
+#: admin/xoptions/kontur-admin-style_registerSettings.php:407
+msgid "paste image URL - OR:"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:343
+msgid "Paste your image-URL - OR:"
+msgstr ""
+
+#: kontur-admin-style.php:59
+msgid "Please update your WordPress to continue using kontur Admin Style."
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:328
+#: admin/xoptions/kontur-admin-style_registerSettings.php:371
+msgid "Replaces the wordpress.org link with your own"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:167
+#: admin/xoptions/kontur-admin-style_registerSettings.php:351
+msgid "Save"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:295
+msgid "Save admin style settings"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:234
+#: admin/xoptions/kontur-admin-style_registerSettings.php:266
+msgid "Save Adminbar Background"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:218
+#: admin/xoptions/kontur-admin-style_registerSettings.php:250
+msgid "Save Adminbar Icon"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:407
+#: admin/xoptions/kontur-admin-style_registerSettings.php:449
+msgid "Save all settings"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:249
+#: admin/kontur-admin-style-admin-page.php:288
+#: admin/xoptions/kontur-admin-style_registerSettings.php:281
+#: admin/xoptions/kontur-admin-style_registerSettings.php:322
+msgid "Save Color"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:272
+#: admin/xoptions/kontur-admin-style_registerSettings.php:305
+msgid "Save color"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:382
+#: admin/xoptions/kontur-admin-style_registerSettings.php:426
+msgid "Save Login page settings"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:365
+#: admin/xoptions/kontur-admin-style_registerSettings.php:409
+msgid "Save Login-Backgound"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:344
+#: admin/xoptions/kontur-admin-style_registerSettings.php:382
+msgid "Save Login-Logo"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:329
+#: admin/xoptions/kontur-admin-style_registerSettings.php:372
+msgid "Save Login-Logo Link"
+msgstr ""
+
+#: admin/xoptions/kontur-admin-style_registerSettings.php:329
+msgid "Save menu color settings"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:364
+#: admin/xoptions/kontur-admin-style_registerSettings.php:408
+msgid "Select background image from media library"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:200
+#: admin/xoptions/kontur-admin-style_registerSettings.php:228
+msgid "Select icon from media library"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:344
+#: admin/xoptions/kontur-admin-style_registerSettings.php:382
+msgid "Select logo from media library"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:277
+#: admin/xoptions/kontur-admin-style_registerSettings.php:310
+msgid "Set admin menu-wrap background"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:332
+#: admin/xoptions/kontur-admin-style_registerSettings.php:375
+msgid "Set background and logo for the login page"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:228
+#: admin/xoptions/kontur-admin-style_registerSettings.php:260
+msgid "Set the Background of the Admin Bar"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:256
+#: admin/xoptions/kontur-admin-style_registerSettings.php:288
+msgid "Set the general admin-menu-back"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:240
+#: admin/xoptions/kontur-admin-style_registerSettings.php:272
+msgid "Set the highlight background color of the admin bar sub-menu"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:320
+#: admin/xoptions/kontur-admin-style_registerSettings.php:363
+msgid "Set your own link"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:41
+#: admin/xoptions/kontur-admin-style_registerSettings.php:144
+msgid "SETTINGS UPDATED !"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:131
+msgid "Settings will show AFTER you checked and saved"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:341
+#: admin/xoptions/kontur-admin-style_registerSettings.php:379
+msgid "Should have a 1:1 aspect ratio - e.g. 150x150px"
+msgstr ""
+
+#: admin/xoptions/kontur-admin-style_registerSettings.php:361
+msgid "show"
+msgstr ""
+
+#: admin/xoptions/kontur-admin-style_registerSettings.php:381
+msgid "Spaste image URL - OR:"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:225
+#: admin/xoptions/kontur-admin-style_registerSettings.php:254
+msgid "Style it Baby"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:337
+#: admin/xoptions/kontur-admin-style_registerSettings.php:387
+msgid "The current Login page background image"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:136
+#: admin/kontur-admin-style-admin-page.php:159
+#: admin/xoptions/kontur-admin-style_registerSettings.php:354
+msgid "Uncheck to use the default WordPress login page "
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:215
+#: admin/xoptions/kontur-admin-style_registerSettings.php:247
+msgid "Uncheck to use the default WordPress logo "
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:126
+msgid "Use Admin Style "
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:209
+#: admin/xoptions/kontur-admin-style_registerSettings.php:239
+msgid "Use Logo in admin bar"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:148
+#: admin/xoptions/kontur-admin-style_registerSettings.php:341
+msgid "Use themed login page "
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:67
+msgid "You are using the default WordPress LogIn Page "
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:43
+msgid "You are using the default WP admin style"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:47
+msgid "You are using your custom admin style"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:59
+msgid "You are using your own admin bar icon"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:74
+msgid "You are using your own login page style "
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:55
+msgid "You did not set an admin bar icon yet"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:192
+#: admin/xoptions/kontur-admin-style_registerSettings.php:220
+msgid "Your Icon / Logo in the Admin bar:"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:358
+#: admin/xoptions/kontur-admin-style_registerSettings.php:402
+msgid "Your Login Page Background"
+msgstr ""
+
+#: admin/kontur-admin-style-admin-page.php:341
+#: admin/xoptions/kontur-admin-style_registerSettings.php:379
+msgid "Your Logo on the Login Page"
+msgstr ""
+
+#. Placeholders are numbers, versions of WordPress in use on the site, and required by WordPress.
+#: kontur-admin-style.php:45
+#, php-format
+msgid ""
+"Your version of WordPress (%1$s) is lower than the version required by "
+"kontur Admin Style (%2$s). Please update your WordPress."
+msgstr ""
